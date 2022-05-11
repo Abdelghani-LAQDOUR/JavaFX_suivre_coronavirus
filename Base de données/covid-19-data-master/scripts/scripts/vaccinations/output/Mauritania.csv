@@ -1,0 +1,12 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Mauritania,2021-03-26,Sinopharm/Beijing,https://www.rfi.fr/fr/afrique/20210327-covid-19-d%C3%A9but-de-la-campagne-de-vaccination-en-mauritanie,0,0,0
+Mauritania,2021-04-01,Sinopharm/Beijing,https://www.sante.gov.mr/?p=5938,1366,1366,0
+Mauritania,2021-04-08,Sinopharm/Beijing,https://www.sante.gov.mr/wp-content/uploads/2021/04/Mauritania-COVID-19-Situation-Report-2021-04-07.FR_.pdf,2930,2930,0
+Mauritania,2021-04-18,Sinopharm/Beijing,https://www.sante.gov.mr/wp-content/uploads/2021/04/Mauritania-COVID-19-Situation-Report-2021-04-18FR.pdf,7038,7038,0
+Mauritania,2021-05-09,Sinopharm/Beijing,https://www.sante.gov.mr/wp-content/uploads/2021/05/Mauritania-COVID-19-Situation-Report-2021-05-09FR.pdf,15661,15661,0
+Mauritania,2021-05-21,Sinopharm/Beijing,https://covid19.who.int/region/afro/country/mr,25741,19468,6273
+Mauritania,2021-05-23,Sinopharm/Beijing,https://www.sante.gov.mr/wp-content/uploads/2021/05/Mauritania-COVID-19-Situation-Report-2021-05-23FR.pdf,28382,22109,6273
+Mauritania,2021-05-26,"Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,28770,22360,6410
+Mauritania,2021-05-31,"Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,37331,30561,6770
+Mauritania,2021-06-08,"Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,43607,,
+Mauritania,2021-06-10,"Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,44628,37726,6902

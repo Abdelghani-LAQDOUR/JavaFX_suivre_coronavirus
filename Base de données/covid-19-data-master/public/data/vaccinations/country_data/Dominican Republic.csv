@@ -1,0 +1,69 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Dominican Republic,2021-02-15,"Oxford/AstraZeneca, Sinovac",https://twitter.com/luisabinader/status/1363672938579439618,0,0,
+Dominican Republic,2021-02-16,"Oxford/AstraZeneca, Sinovac",https://twitter.com/luisabinader/status/1363672938579439618,385,385,
+Dominican Republic,2021-02-17,"Oxford/AstraZeneca, Sinovac",https://twitter.com/luisabinader/status/1363672938579439618,1379,1379,
+Dominican Republic,2021-02-18,"Oxford/AstraZeneca, Sinovac",https://twitter.com/luisabinader/status/1363672938579439618,5328,5328,
+Dominican Republic,2021-02-19,"Oxford/AstraZeneca, Sinovac",https://twitter.com/luisabinader/status/1363672938579439618,10200,10200,
+Dominican Republic,2021-02-20,"Oxford/AstraZeneca, Sinovac",https://twitter.com/luisabinader/status/1363672938579439618,13087,13087,
+Dominican Republic,2021-02-21,"Oxford/AstraZeneca, Sinovac",https://twitter.com/luisabinader/status/1363672938579439618,14264,14264,
+Dominican Republic,2021-02-24,"Oxford/AstraZeneca, Sinovac",https://twitter.com/SaludPublicaRD/status/1364587633645617154,26400,26400,
+Dominican Republic,2021-03-01,"Oxford/AstraZeneca, Sinovac",https://twitter.com/SaludPublicaRD/status/1366335885692854272,60000,60000,
+Dominican Republic,2021-03-02,"Oxford/AstraZeneca, Sinovac",https://twitter.com/SaludPublicaRD/status/1366830606055837697,105000,105000,
+Dominican Republic,2021-03-03,"Oxford/AstraZeneca, Sinovac",https://twitter.com/SaludPublicaRD/status/1367164847700475904,161827,161827,
+Dominican Republic,2021-03-04,"Oxford/AstraZeneca, Sinovac",https://twitter.com/SaludPublicaRD/status/1367494829165457428,227719,227719,
+Dominican Republic,2021-03-05,"Oxford/AstraZeneca, Sinovac",https://twitter.com/SaludPublicaRD/status/1367849088503455749,303490,303490,
+Dominican Republic,2021-03-06,"Oxford/AstraZeneca, Sinovac",https://twitter.com/SaludPublicaRD/status/1368209179060690944,375265,375265,
+Dominican Republic,2021-03-08,"Oxford/AstraZeneca, Sinovac",https://twitter.com/SaludPublicaRD/status/1368944098598617092,400041,400041,
+Dominican Republic,2021-03-09,"Oxford/AstraZeneca, Sinovac",https://twitter.com/SaludPublicaRD/status/1369290822047391748,480237,480237,
+Dominican Republic,2021-03-10,"Oxford/AstraZeneca, Sinovac",https://twitter.com/SaludPublicaRD/status/1369645420905893891,547091,547091,
+Dominican Republic,2021-03-11,"Oxford/AstraZeneca, Sinovac",https://twitter.com/SaludPublicaRD/status/1370115374373560325,606006,606006,
+Dominican Republic,2021-03-15,"Oxford/AstraZeneca, Sinovac",https://twitter.com/SaludPublicaRD/status/1371444361469255682,675000,675000,
+Dominican Republic,2021-03-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://twitter.com/SaludPublicaRD/status/1374451963627151360,800000,800000,
+Dominican Republic,2021-03-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://twitter.com/SaludPublicaRD/status/1376919663049904145,910869,856474,54395
+Dominican Republic,2021-04-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://twitter.com/saludpublicard/status/1382524322565218305,1509898,909898,600000
+Dominican Republic,2021-04-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://twitter.com/PresidenciaRD/status/1386858176440672257,1747878,993804,754074
+Dominican Republic,2021-04-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,1797346,1029281,768065
+Dominican Republic,2021-04-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,1847261,1067830,779431
+Dominican Republic,2021-04-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,1893836,1106733,787103
+Dominican Republic,2021-04-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,1935500,1143669,791831
+Dominican Republic,2021-04-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,1970018,1174227,795791
+Dominican Republic,2021-05-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,1982185,1185502,796683
+Dominican Republic,2021-05-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,1989384,1192415,796969
+Dominican Republic,2021-05-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,2052662,1251674,800988
+Dominican Republic,2021-05-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,2123703,1319445,804258
+Dominican Republic,2021-05-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,2197153,1389890,807263
+Dominican Republic,2021-05-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,2264381,1456488,807893
+Dominican Republic,2021-05-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,2325108,1515063,810045
+Dominican Republic,2021-05-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,2345528,1535083,810445
+Dominican Republic,2021-05-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,2354281,1543725,810556
+Dominican Republic,2021-05-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,2483629,1671046,812583
+Dominican Republic,2021-05-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,2640409,1825500,814909
+Dominican Republic,2021-05-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,2801356,1984662,816694
+Dominican Republic,2021-05-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,2941030,2122713,818317
+Dominican Republic,2021-05-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,3071487,2251255,820232
+Dominican Republic,2021-05-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,3105105,2284580,820525
+Dominican Republic,2021-05-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,3119820,2299179,820641
+Dominican Republic,2021-05-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,3370726,2545132,825594
+Dominican Republic,2021-05-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,3488131,2658818,829313
+Dominican Republic,2021-05-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,3593646,2748532,845114
+Dominican Republic,2021-05-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,3694329,2822348,871981
+Dominican Republic,2021-05-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,3725377,2845928,879449
+Dominican Republic,2021-05-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,3739010,2855808,883202
+Dominican Republic,2021-05-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,3845766,2932987,912779
+Dominican Republic,2021-05-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,3948015,3003678,944337
+Dominican Republic,2021-05-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,4041312,3064800,976512
+Dominican Republic,2021-05-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,4121584,3115252,1006332
+Dominican Republic,2021-05-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,4188983,3155232,1033751
+Dominican Republic,2021-05-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,4210215,3169176,1041039
+Dominican Republic,2021-05-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,4214163,3171332,1042831
+Dominican Republic,2021-05-31,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,4311374,3223950,1087424
+Dominican Republic,2021-06-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,4456516,3313861,1142655
+Dominican Republic,2021-06-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,4625387,3424187,1201200
+Dominican Republic,2021-06-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,4761529,3530338,1231191
+Dominican Republic,2021-06-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,4989807,3687044,1302763
+Dominican Republic,2021-06-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,5115370,3784461,1330909
+Dominican Republic,2021-06-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,5197199,3848889,1348310
+Dominican Republic,2021-06-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,5656548,4091884,1564664
+Dominican Republic,2021-06-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,5900600,4212646,1687954
+Dominican Republic,2021-06-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,6050983,4223427,1827556
+Dominican Republic,2021-06-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://vacunate.gob.do/,6173811,4227940,1945871

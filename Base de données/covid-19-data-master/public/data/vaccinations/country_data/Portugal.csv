@@ -1,0 +1,169 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Portugal,2020-12-27,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,4963,4963,0
+Portugal,2020-12-28,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,7754,7754,0
+Portugal,2020-12-29,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,20368,20368,0
+Portugal,2020-12-30,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,30543,30543,0
+Portugal,2020-12-31,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,32749,32749,0
+Portugal,2021-01-01,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,32749,32749,0
+Portugal,2021-01-02,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,32750,32750,0
+Portugal,2021-01-03,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,32750,32750,0
+Portugal,2021-01-04,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,33670,33670,0
+Portugal,2021-01-05,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,46433,46433,0
+Portugal,2021-01-06,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,61454,61454,0
+Portugal,2021-01-07,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,71751,71751,0
+Portugal,2021-01-08,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,74254,74254,0
+Portugal,2021-01-09,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,74352,74352,0
+Portugal,2021-01-10,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,74392,74392,0
+Portugal,2021-01-11,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,75280,75280,0
+Portugal,2021-01-12,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,86162,86162,0
+Portugal,2021-01-13,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,99961,99961,0
+Portugal,2021-01-14,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,111111,111111,0
+Portugal,2021-01-15,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,118597,118597,0
+Portugal,2021-01-16,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,120132,120132,0
+Portugal,2021-01-17,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,121300,120139,1161
+Portugal,2021-01-18,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,124704,122879,1825
+Portugal,2021-01-19,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,148434,138991,9443
+Portugal,2021-01-20,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,177367,158749,18618
+Portugal,2021-01-21,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,210471,186879,23592
+Portugal,2021-01-22,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,236730,210734,25996
+Portugal,2021-01-23,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,251524,221488,30036
+Portugal,2021-01-24,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,255699,225146,30553
+Portugal,2021-01-25,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,255699,225146,30553
+Portugal,2021-01-26,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,263499,225146,30553
+Portugal,2021-01-27,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,278413,225146,30553
+Portugal,2021-01-28,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,296004,225146,30553
+Portugal,2021-01-29,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,315737,225146,30553
+Portugal,2021-01-30,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,330233,264772,65461
+Portugal,2021-01-31,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,336771,268386,68385
+Portugal,2021-02-01,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,338566,269814,68752
+Portugal,2021-02-02,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,342119,271424,70695
+Portugal,2021-02-03,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,350945,275093,75852
+Portugal,2021-02-04,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,364211,279236,84975
+Portugal,2021-02-05,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,379378,284462,94916
+Portugal,2021-02-06,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,394088,290302,103786
+Portugal,2021-02-07,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,395904,291378,104526
+Portugal,2021-02-08,Pfizer/BioNTech,https://github.com/dssg-pt/covid19pt-data,396371,291758,104613
+Portugal,2021-02-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,400190,294135,106055
+Portugal,2021-02-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,415283,298724,116559
+Portugal,2021-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,436220,303142,133078
+Portugal,2021-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,468319,310715,157604
+Portugal,2021-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,505371,320677,184694
+Portugal,2021-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,523349,328819,194530
+Portugal,2021-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,558780,350971,207809
+Portugal,2021-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,569545,356150,213395
+Portugal,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,586090,366663,219427
+Portugal,2021-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,608461,381081,227380
+Portugal,2021-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,648395,408311,240084
+Portugal,2021-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,686170,433132,253038
+Portugal,2021-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,705212,448670,256542
+Portugal,2021-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,715528,456616,258912
+Portugal,2021-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,729568,468932,260636
+Portugal,2021-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,755988,493131,262857
+Portugal,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,787588,521242,266346
+Portugal,2021-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,832276,562838,269438
+Portugal,2021-02-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,873158,598264,274894
+Portugal,2021-02-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,897193,621014,276179
+Portugal,2021-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,911719,631510,280201
+Portugal,2021-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,927877,646318,281551
+Portugal,2021-03-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,943599,660375,283216
+Portugal,2021-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,971901,683644,288249
+Portugal,2021-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1014951,720885,294058
+Portugal,2021-03-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1054800,752127,302665
+Portugal,2021-03-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1071957,765131,306818
+Portugal,2021-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1082340,769874,312444
+Portugal,2021-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1093331,778687,314622
+Portugal,2021-03-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1104325,787775,316528
+Portugal,2021-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1128003,802455,325526
+Portugal,2021-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1163125,823274,339829
+Portugal,2021-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1196815,843492,353301
+Portugal,2021-03-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1213113,854425,358666
+Portugal,2021-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1229391,865104,364265
+Portugal,2021-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1254362,887060,367280
+Portugal,2021-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1261867,888618,373227
+Portugal,2021-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1296312,901166,395124
+Portugal,2021-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1341585,913086,428477
+Portugal,2021-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1386442,929968,456452
+Portugal,2021-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1409507,940123,469362
+Portugal,2021-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1422104,947186,474896
+Portugal,2021-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1439830,957280,482528
+Portugal,2021-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1462139,977517,484600
+Portugal,2021-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1504632,1016403,488207
+Portugal,2021-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1576064,1083331,492711
+Portugal,2021-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1606772,1111583,495167
+Portugal,2021-03-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1670187,1173480,496685
+Portugal,2021-03-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1699273,1201358,497893
+Portugal,2021-03-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1722820,1222277,500521
+Portugal,2021-03-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1753767,1249628,504117
+Portugal,2021-04-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1777443,1263597,513824
+Portugal,2021-04-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1860724,1304830,555872
+Portugal,2021-04-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1896158,1323508,572628
+Portugal,2021-04-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1914092,1334319,579751
+Portugal,2021-04-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1920886,1338726,582138
+Portugal,2021-04-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1953531,1365451,588058
+Portugal,2021-04-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,1993249,1402087,591140
+Portugal,2021-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2055097,1453496,601579
+Portugal,2021-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2125589,1508982,616585
+Portugal,2021-04-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2195148,1565956,629170
+Portugal,2021-04-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2208059,1576761,631276
+Portugal,2021-04-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2228559,1593051,635486
+Portugal,2021-04-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2260543,1622873,637648
+Portugal,2021-04-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2304770,1665320,639428
+Portugal,2021-04-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2368323,1717980,650321
+Portugal,2021-04-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2437967,1777493,660452
+Portugal,2021-04-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2505762,1825333,680407
+Portugal,2021-04-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2624580,1939221,685337
+Portugal,2021-04-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2706813,2016319,690472
+Portugal,2021-04-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2739177,2037516,701639
+Portugal,2021-04-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2777390,2066753,710615
+Portugal,2021-04-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2831259,2096735,734502
+Portugal,2021-04-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2899067,2125212,773833
+Portugal,2021-04-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,2976623,2164833,811768
+Portugal,2021-04-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,3020236,2196164,824050
+Portugal,2021-04-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,3054793,2225817,828954
+Portugal,2021-04-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,3103692,2266099,837571
+Portugal,2021-04-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,3153073,2305280,847771
+Portugal,2021-04-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,3225844,2359193,866629
+Portugal,2021-04-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,3306651,2421769,884860
+Portugal,2021-05-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,3392954,2491044,901888
+Portugal,2021-05-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,3444458,2533104,911332
+Portugal,2021-05-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,3486486,2569590,916873
+Portugal,2021-05-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,3551546,2621034,930489
+Portugal,2021-05-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,3628653,2681232,947398
+Portugal,2021-05-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,3719582,2729789,989770
+Portugal,2021-05-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,3820606,2779516,1041067
+Portugal,2021-05-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,3924856,2826948,1097885
+Portugal,2021-05-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,4007341,2895545,1111773
+Portugal,2021-05-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,4070887,2949387,1121477
+Portugal,2021-05-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,4149433,3008248,1141162
+Portugal,2021-05-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,4218744,3061492,1157229
+Portugal,2021-05-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,4287143,3114774,1172346
+Portugal,2021-05-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,4359640,3167674,1191943
+Portugal,2021-05-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,4439482,3191323,1248135
+Portugal,2021-05-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,4569332,3197345,1371963
+Portugal,2021-05-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,4661999,3254635,1407341
+Portugal,2021-05-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,4730469,3302410,1428036
+Portugal,2021-05-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,4809965,3358345,1451597
+Portugal,2021-05-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,4889261,3411092,1478146
+Portugal,2021-05-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,4971912,3465499,1506390
+Portugal,2021-05-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,5057366,3514839,1542504
+Portugal,2021-05-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,5128432,3551368,1577041
+Portugal,2021-05-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,5182400,3581258,1601119
+Portugal,2021-05-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,5250346,3624780,1625543
+Portugal,2021-05-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,5319148,3674260,1644865
+Portugal,2021-05-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,5406992,3718653,1688316
+Portugal,2021-05-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,5506011,3760512,1745476
+Portugal,2021-05-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,5609769,3799894,1809852
+Portugal,2021-05-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,5683018,3834006,1848989
+Portugal,2021-05-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,5737300,3860849,1876425
+Portugal,2021-06-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,5807420,3892904,1914490
+Portugal,2021-06-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,5896176,3934544,1961606
+Portugal,2021-06-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,5985657,3987734,1997897
+Portugal,2021-06-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,6057301,4029593,2027682
+Portugal,2021-06-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,6147974,4078640,2069308
+Portugal,2021-06-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,6228904,4114470,2114408
+Portugal,2021-06-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,6301619,4145987,2155604
+Portugal,2021-06-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,6405834,4198992,2206814
+Portugal,2021-06-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,6501337,4260594,2240715
+Portugal,2021-06-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,6600654,4325971,2274655
+Portugal,2021-06-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,6713043,4400089,2312926
+Portugal,2021-06-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/dssg-pt/covid19pt-data,6769487,4430843,2338616
