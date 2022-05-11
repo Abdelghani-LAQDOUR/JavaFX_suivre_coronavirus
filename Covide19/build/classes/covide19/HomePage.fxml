@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<StackPane prefHeight="576.0" prefWidth="830.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="covide19.HomePageController">
+   <children>
+      <Pane prefHeight="576.0" prefWidth="839.0">
+         <children>
+            <ImageView fitHeight="528.0" fitWidth="830.0" layoutY="136.0">
+               <image>
+                  <Image url="@../images/tett.jpg"/>
+               </image>
+            </ImageView>
+            <Label layoutX="57.0" layoutY="18.0" text="Covid-19 Coronavirus Pandemic" textFill="#021433">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+            <HBox alignment="CENTER_LEFT" layoutX="32.0" layoutY="70.0" prefHeight="92.0" prefWidth="704.0" spacing="50.0">
+               <children>
+                  <Pane prefHeight="92.0" prefWidth="207.0" style="-fx-background-color: #015d87; -fx-background-radius: 1em;">
+                     <children>
+                        <VBox alignment="CENTER" layoutX="3.0" layoutY="3.0" prefHeight="92.0" prefWidth="194.0">
+                           <children>
+                              <Label fx:id="c" textFill="#e7e5e5">
+                                 <font>
+                                    <Font name="System Bold" size="26.0" />
+                                 </font>
+                              </Label>
+                              <Label text="Coronavirus Cases" textFill="#e7e5e5" />
+                           </children>
+                        </VBox>
+                     </children>
+                  </Pane>
+                  <Pane prefHeight="92.0" prefWidth="207.0" style="-fx-background-color: #01877a; -fx-background-radius: 1em;">
+                     <children>
+                        <VBox alignment="CENTER" layoutX="2.0" prefHeight="92.0" prefWidth="194.0">
+                           <children>
+                              <Label fx:id="vcc" textFill="#e7e5e5">
+                                 <font>
+                                    <Font name="System Bold" size="26.0" />
+                                 </font>
+                              </Label>
+                              <Label text="vaccinated people" textFill="#e7e5e5" />
+                           </children>
+                        </VBox>
+                     </children>
+                  </Pane>
+                  <Pane prefHeight="92.0" prefWidth="207.0" style="-fx-background-color: #661215; -fx-background-radius: 1em;">
+                     <children>
+                        <VBox alignment="CENTER" layoutX="1.0" layoutY="3.0" prefHeight="92.0" prefWidth="201.0">
+                           <children>
+                              <Label fx:id="deaths" textFill="#e7e5e5">
+                                 <font>
+                                    <Font name="System Bold" size="26.0" />
+                                 </font>
+                              </Label>
+                              <Label text="Deaths" textFill="#e7e5e5" />
+                           </children>
+                        </VBox>
+                     </children>
+                  </Pane>
+               </children>
+            </HBox>
+         </children>
+      </Pane>
+   </children>
+</StackPane>
